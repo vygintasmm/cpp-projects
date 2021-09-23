@@ -1,0 +1,3 @@
+﻿  unicode_utf8.cpp
+C:\Users\Vigintas\source\repos\unicode_utf8\unicode_utf8\unicode_utf8.cpp(73,27): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1168: cannot open C:\Users\Vigintas\source\repos\unicode_utf8\Debug\unicode_utf8.exe for writing

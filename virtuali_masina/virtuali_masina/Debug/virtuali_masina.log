@@ -1,0 +1,4 @@
+﻿  virtuali_masina.cpp
+C:\Users\Vigintas\source\repos\virtuali_masina\virtuali_masina\virtuali_masina.cpp(119,16): warning C4244: 'initializing': conversion from 'short' to 'int8_t', possible loss of data
+C:\Users\Vigintas\source\repos\virtuali_masina\virtuali_masina\virtuali_masina.cpp(314,16): warning C4244: 'initializing': conversion from 'short' to 'int8_t', possible loss of data
+  virtuali_masina.vcxproj -> C:\Users\Vigintas\source\repos\virtuali_masina\Debug\virtuali_masina.exe
